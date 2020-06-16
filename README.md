@@ -1,9 +1,9 @@
 # Face Recognition
 Recognising faces of individuals among a group of people (with OpenCV and deep learning face recognition embeddings)
-
+<br></br>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/jyuteo/FaceRecognition/master/test_output_overview.gif?token=AP7EBEWTSVTWLV3IBE7FLP265DHWC" alt="drawing" width="750"/>
+   <img src="https://github.com/jyuteo/FaceRecognition/blob/master/test_output_overview.gif" width="750"/>
 </p>
 
 ## Requirements
